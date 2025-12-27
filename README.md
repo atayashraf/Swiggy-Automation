@@ -250,8 +250,8 @@ This project is for educational purposes only. Ensure compliance with Swiggy's T
 
 ## 👤 Author
 
-**Sumit**
-- GitHub: [@Sumit-1018](https://github.com/Sumit-1018)
+**Atay Ashraf**
+- GitHub: [@atayashraf](https://github.com/atayashraf)
 
 
 ## ⚖️ Disclaimer
